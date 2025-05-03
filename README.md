@@ -56,8 +56,8 @@
   - Optimized performance of data pipelines for vehicle telemetry analysis
 
 ### Cloud Infrastructure
-- **Software Engineer** at Fidelity Investments (2023 - Present)
-  - Led migration initiatives from Datadog to Grafana monitoring platforms
+- **Software Engineer** at Fidelity Investments (2023 - 2024)
+  - Joined  migration initiatives from Datadog to Grafana monitoring platforms ( with Grafana Lab partnership) 
   - Developed custom Kubernetes deployments for enterprise-scale applications
   - Built cloud-native solutions for high-availability financial services
   - Implemented automated workflows for infrastructure management
