@@ -28,11 +28,11 @@
 ## 📖 Publications & Research
 
 ### TCP & networkong projects 
-- **TCP Protocol Improvements for Automotive Communication Networks**  
+- **TCP Protocol Improvements for Satellite Communication Networks**  
   *IEEE Conference Publication*  
   [Read more about TCP in automotive applications](https://ieeexplore.ieee.org/document/4023232/)
   
-- **Cross-layer approach for Vehicle Communication Systems**  
+- **Cross-layer approach for Satellite Communication Systems**  
   *International Journal of Satellite Communications / John Wiley & Sons, Ltd.*  
   [Read more about cross-layer approaches](https://www.researchgate.net/publication/220123783_Cross-layer_approach_for_an_air_interface_of_GEO_satellite_communication_networks)
 
