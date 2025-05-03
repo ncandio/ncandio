@@ -7,15 +7,12 @@
 ## 🔧 Technical Skills
 
 ### Autonomous Systems & Middleware
-- ROS/ROS2 Development
-- CyberRT Framework
 - C++ for Automotive Applications
 - Sensor Integration
 - Component Testing & Validation
 
 ### Data Engineering & Analysis
 - Classical Machine Learning Algorithms
-- Distributed Computing (DASK)
 - Big Data Processing (GCP Big Query)
 - Data Pipeline Optimization
 - Performance Tuning and Benchmarking
@@ -23,7 +20,6 @@
 ### Cloud & Infrastructure
 - Kubernetes Administration & Development
 - Cloud Platform Management (AWS, GCP)
-- Infrastructure as Code (IaC)
 - Containerization & Orchestration
 - Monitoring & Observability (Grafana, Datadog)
 
