@@ -51,7 +51,7 @@
   - Worked with ROS, ROS2, and CyberRT as middleware for autonomous systems
   - Built and tested components using C++ and Python for vehicle applications
   - Collaborated with Data Science and AI teams on automotive analytics projects
-  - Implemented classical ML algorithms like linear regression for vehicle systems
+  - Joined teams Implementing  classical ML algorithms like linear regression for vehicle systems
   - Utilized DASK for parallelization of data processing in GCP Big Query environment
   - Optimized performance of data pipelines for vehicle telemetry analysis
 
@@ -81,7 +81,7 @@
 
 ## 📖 Publications & Research
 
-### Automotive & Cloud Technologies
+### TCP & networkong projects 
 - **TCP Protocol Improvements for Automotive Communication Networks**  
   *IEEE Conference Publication*  
   [Read more about TCP in automotive applications](https://ieeexplore.ieee.org/document/4023232/)
@@ -94,14 +94,9 @@ My research explores improving communication protocols for automotive systems an
 
 ## 🌱 I'm currently working on...
 
-I'm actively developing side projects and prototypes covering:
+I'm actively developing side projects and prototypes, mostly for fun in C++ and Python. My interests are focused on SWE practices and autonomous driving embedded technologies in Linux. 
 
-- **CloudNative-Toolkit**: A collection of containerized microservices for cloud deployment automation using Python and Kubernetes
-- **DataParallel-Framework**: Implementation of parallel computing patterns using DASK and Python for big data processing
-- **CPP-DesignPatterns**: Modern C++17/20 implementations of common design patterns with performance benchmarks
-- **Monitoring-as-Code**: Infrastructure-as-Code templates for setting up comprehensive monitoring solutions
-
-Check out my repositories below to see these projects and other experiments in cloud infrastructure, data engineering, and software design!
+Check out my repositories below to see these projects and other experiments in cloud infrastructure, data engineering, and software design.
 
 ## 💬 Let's Connect!
 
@@ -110,7 +105,7 @@ Check out my repositories below to see these projects and other experiments in c
 
 ---
 
-💡 **Open to collaboration on automotive embedded systems, cloud infrastructure, and software engineering projects.**
+💡 **Open to collaboration on automotive , telco, security and cloud infrastructure;  software engineering projects.**
 
 <!--
 **ncandio/ncandio** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
