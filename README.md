@@ -6,7 +6,7 @@
 
 ## 🔧 Technical Skills
 
-### Autonomous Systems & Middleware
+### Autonomous Systems (embedded & Middleware) 
 - C++ for Automotive Applications
 - Sensor Integration
 - Component Testing & Validation
@@ -53,12 +53,11 @@ Check out my repositories below to see these projects and other experiments in c
 - AI and ML
 - using proactively ML/AI
 - Linux  
-- 
+
 
 ## 👯 I'm looking to collaborate on ... 
-- research projects 
-- 
-- 
+- research projects (Linux/AI/ML/Networking) 
+  
 
 💡 **Open to collaboration on automotive , telco, security and cloud infrastructure;  software engineering projects.**
 
