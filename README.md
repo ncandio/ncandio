@@ -25,10 +25,6 @@
 - Professional Scrum Master (PSM™), DCM Learning
 - Certified ScrumMaster (CSM), Scrum Alliance
 
-## 📈 GitHub Stats
-
-[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nlcandio&show_icons=true&theme=dark)](https://github.com/nlcandio)
-
 ## 📖 Publications & Research
 
 ### TCP & networkong projects 
@@ -56,6 +52,13 @@ Check out my repositories below to see these projects and other experiments in c
 ##  🌱 I'm currently learning ...
 - AI and ML
 - using proactively ML/AI
+- Linux  
+- 
+
+## 👯 I'm looking to collaborate on ... 
+- research projects 
+- 
+- 
 
 💡 **Open to collaboration on automotive , telco, security and cloud infrastructure;  software engineering projects.**
 
