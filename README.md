@@ -2,7 +2,7 @@
 
 ## 💼 Senior Software Engineer | Automotive Systems | Cloud Infrastructure | Certified Scrum Master
 
-> Senior Software Engineer with 15+ years in international software projects, focused on automotive embedded systems and cloud infrastructure. Experienced in developing high-performance solutions for autonomous vehicle systems and cloud-native applications. Fluent in English, Spanish, French, and Italian.
+> Senior Software Engineer with 15+ years in international software projects, focused on automotive , embedded systems and cloud infrastructure. Experienced in developing high-performance solutions for autonomous vehicle systems and cloud-native applications. Fluent in English, Spanish, French, and Italian.
 
 ## 🔧 Technical Skills
 
@@ -30,13 +30,13 @@
 ### TCP & networkong projects 
 - **TCP Protocol Improvements for Satellite Communication Networks**  
   *IEEE Conference Publication*  
-  [Read more about TCP in automotive applications](https://ieeexplore.ieee.org/document/4023232/)
+  [Read more about TCP in satellite applications](https://ieeexplore.ieee.org/document/4023232/)
   
 - **Cross-layer approach for Satellite Communication Systems**  
   *International Journal of Satellite Communications / John Wiley & Sons, Ltd.*  
   [Read more about cross-layer approaches](https://www.researchgate.net/publication/220123783_Cross-layer_approach_for_an_air_interface_of_GEO_satellite_communication_networks)
 
-My research explores improving communication protocols for automotive systems and cloud infrastructure, focusing on reliable data transmission in challenging network environments.
+My research explores improving communication protocols for satellite systems and cloud infrastructure, focusing on reliable data transmission in challenging network environments.
 
 ## 🌱 I'm currently working on...
 
