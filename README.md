@@ -56,7 +56,11 @@ Check out my repositories below to see these projects and other experiments in c
 
 
 ## 👯 I'm looking to collaborate on ... 
-- research projects (Linux/AI/ML/Networking) 
+- research projects (Linux/AI/ML/Networking)
+
+##⚡ Hobbies: 
+- stand-up comedy
+- 70 progressive music
   
 
 💡 **Open to collaboration on automotive , telco, security and cloud infrastructure;  software engineering projects.**
