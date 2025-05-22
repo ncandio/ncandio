@@ -75,7 +75,6 @@ Check out my repositories below to see these projects and other experiments in c
    the possibility of interconnecting complex systems. It should be noted that some, if not many, assisted coding tools available today are also provided by companies in 
    enterprise license form (e.g, Copilot for Enterprise) 
  
-
 <!--
 **ncandio/ncandio** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
