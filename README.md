@@ -62,19 +62,19 @@ Check out my repositories below to see these projects and other experiments in c
 - stand-up comedy
 - '70 progressive music
 
+💡 **Open to collaboration on automotive, telco, security, cloud infrastructure,  and software engineering projects.**
+
 ## 📫 Disclaimer
    
    With over 15 years of research in technology and corporate environments, my opinions on AI-driven and AI-assisted software are multifaceted. I find the potential to  
-   refactor projects and ideas rapidly and quickly create prototypes very interesting: this is the case with the PostgreSQL repository implementing three different branches 
-   with a traditional version, using Dask and libuv for Python - libraries I have personally used in enterprise projects.
-   These GitHub repositories have been created as an attempt to assemble a portfolio and are not demonstrative of my ability to assemble or lead production projects. 
-   Naturally, given their recent creation, they reflect my curiosity for new technologies and available AI tools. However, all have been scrupulously reviewed and carefully 
-   revised and supervised.
-   Without going into the details of each individual project and repository, each one reflects my curiosity for a specific technological field or the possibility of 
-   interconnecting complex systems. It should be noted that some, if not many, assisted coding tools available today are also provided by companies in enterprise license form.
-  
-
-💡 **Open to collaboration on automotive , telco, security and cloud infrastructure;  software engineering projects.**
+   refactor projects and ideas rapidly and quickly create exciting prototypes: this is the case with the PostgreSQL repository, implementing three 
+   different branches. With a traditional version, using Dask and libuv for Python libraries, I have personally used it in enterprise projects.
+   These GitHub repositories have been created as an attempt to assemble a portfolio and do not demonstrate my ability to build or lead production projects. 
+   Naturally, given their recent creation, they reflect my curiosity for new technologies and available AI tools. However, all have been scrupulously reviewed, carefully 
+   revised, and supervised. Without going into the details of each project and repository, each reflects my curiosity for a specific technological field or 
+   the possibility of interconnecting complex systems. It should be noted that some, if not many, assisted coding tools available today are also provided by companies in 
+   enterprise license form (e.g, Copilot for Enterprise) 
+ 
 
 <!--
 **ncandio/ncandio** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
