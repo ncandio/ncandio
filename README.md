@@ -2,7 +2,7 @@
 
 ## 💼 Senior Software Engineer | Automotive Systems | Cloud Infrastructure | Certified Scrum Master
 
-> Senior Software Engineer with 15+ years in international software projects, focused on automotive , embedded systems and cloud infrastructure. Experienced in developing high-performance solutions for autonomous vehicle systems and cloud-native applications. Fluent in English, Spanish, French, and Italian.
+> Senior Software Engineer with 15+ years in international software projects, focused on automotive, embedded systems, and cloud infrastructure. Experienced in developing high-performance solutions for autonomous vehicle systems and cloud-native applications. Fluent in English, Spanish, French, and Italian.
 
 ## 🔧 Technical Skills
 
@@ -33,14 +33,14 @@
   [Read more about TCP in satellite applications](https://ieeexplore.ieee.org/document/4023232/)
   
 - **Cross-layer approach for Satellite Communication Systems**  
-  *International Journal of Satellite Communications / John Wiley & Sons, Ltd.*  
+  *International Journal of Satellite Communications / John Wiley & Sons, Ltd..*  
   [Read more about cross-layer approaches](https://www.researchgate.net/publication/220123783_Cross-layer_approach_for_an_air_interface_of_GEO_satellite_communication_networks)
 
 My research explores improving communication protocols for satellite systems and cloud infrastructure, focusing on reliable data transmission in challenging network environments.
 
 ## 🌱 I'm currently working on...
 
-I'm actively developing side projects and prototypes, mostly for fun in C++ and Python. My interests are focused on SWE practices and autonomous driving embedded technologies in Linux. 
+I'm actively developing side projects and prototypes, primarily for fun in C++ and Python. My interests are focused on SWE practices and autonomous driving embedded technologies in Linux. 
 
 Check out my repositories below to see these projects and other experiments in cloud infrastructure, data engineering, and software design.
 
@@ -51,7 +51,7 @@ Check out my repositories below to see these projects and other experiments in c
 
 ##  🌱 I'm currently learning ...
 - AI and ML
-- using proactively ML/AI
+- using proactive ML/AI
 - Linux  
 
 
@@ -60,7 +60,18 @@ Check out my repositories below to see these projects and other experiments in c
 
 ## ⚡ Hobbies: 
 - stand-up comedy
-- 70 progressive music
+- '70 progressive music
+
+## 📫 Disclaimer
+   
+   With over 15 years of research in technology and corporate environments, my opinions on AI-driven and AI-assisted software are multifaceted. I find the potential to  
+   refactor projects and ideas rapidly and quickly create prototypes very interesting: this is the case with the PostgreSQL repository implementing three different branches 
+   with a traditional version, using Dask and libuv for Python - libraries I have personally used in enterprise projects.
+   These GitHub repositories have been created as an attempt to assemble a portfolio and are not demonstrative of my ability to assemble or lead production projects. 
+   Naturally, given their recent creation, they reflect my curiosity for new technologies and available AI tools. However, all have been scrupulously reviewed and carefully 
+   revised and supervised.
+   Without going into the details of each individual project and repository, each one reflects my curiosity for a specific technological field or the possibility of 
+   interconnecting complex systems. It should be noted that some, if not many, assisted coding tools available today are also provided by companies in enterprise license form.
   
 
 💡 **Open to collaboration on automotive , telco, security and cloud infrastructure;  software engineering projects.**
