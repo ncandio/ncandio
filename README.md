@@ -66,9 +66,10 @@ Check out my repositories below to see these projects and other experiments in c
 
 ## 📫 Disclaimer
    
-   With over 15 years of research in technology and corporate environments, my opinions on AI-driven and AI-assisted software are multifaceted. I find the potential to  
-   refactor projects and ideas rapidly and quickly create exciting prototypes: this is the case with the PostgreSQL repository, implementing three 
+   With over 15 years of research in technology and corporate environments, my opinions on AI-driven and AI-assisted software are multifaceted. 
+   I find the potential to refactor projects and ideas rapidly and quickly create exciting prototypes: this is the case with the PostgreSQL repository, implementing three 
    different branches. With a traditional version, using Dask and libuv for Python libraries, I have personally used it in enterprise projects.
+   
    These GitHub repositories have been created as an attempt to assemble a portfolio and do not demonstrate my ability to build or lead production projects. 
    Naturally, given their recent creation, they reflect my curiosity for new technologies and available AI tools. However, all have been scrupulously reviewed, carefully 
    revised, and supervised. Without going into the details of each project and repository, each reflects my curiosity for a specific technological field or 
