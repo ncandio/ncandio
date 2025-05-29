@@ -33,16 +33,16 @@
   [Read more about TCP in satellite applications](https://ieeexplore.ieee.org/document/4023232/)
   
 - **Cross-layer approach for Satellite Communication Systems**  
-  *International Journal of Satellite Communications / John Wiley & Sons, Ltd..*  
+  *International Journal of Satellite Communications / John Wiley & Sons, Ltd.*  
   [Read more about cross-layer approaches](https://www.researchgate.net/publication/220123783_Cross-layer_approach_for_an_air_interface_of_GEO_satellite_communication_networks)
 
-My research explores improving communication protocols for satellite systems and cloud infrastructure, focusing on reliable data transmission in challenging network environments.
+My research focuses on enhancing communication protocols for satellite systems and cloud infrastructure, with a particular emphasis on ensuring reliable data transmission in challenging network environments.
 
 ## 🌱 I'm currently working on...
 
-I'm actively developing side projects and prototypes, primarily for fun in C++ and Python. My interests are focused on SWE practices and autonomous driving embedded technologies in Linux. 
+I'm actively developing side projects and prototypes, primarily for fun in C++ and Python. My interests are focused on software engineering (SWE) practices and autonomous driving embedded technologies in Linux. 
 
-Check out my repositories below to see these projects and other experiments in cloud infrastructure, data engineering, and software design.
+Explore my repositories below to view these projects and other experiments in cloud infrastructure, data engineering, and software design.
 
 ## 💬 Let's Connect!
 
@@ -56,11 +56,12 @@ Check out my repositories below to see these projects and other experiments in c
 
 
 ## 👯 I'm looking to collaborate on ... 
-- research projects (Linux/AI/ML/Networking)
+- research projects : Linux/ Linux embedded /AI/ Edge Cloud / ML /Networking / Image recognition / ...)
 
 ## ⚡ Hobbies: 
-- stand-up comedy
-- '70 progressive music
+-  stand-up comedy
+-  '70 progressive music
+-  trashware
 
 💡 **Open to collaboration on automotive, telco, security, cloud infrastructure,  and software engineering projects.**
 
