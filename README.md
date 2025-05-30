@@ -72,11 +72,6 @@ Explore my repositories below to view these projects and other experiments in cl
    different branches. With a traditional version, using Dask and libuv for Python libraries, I have personally used it in enterprise projects.
    
    These GitHub repositories have been created as an attempt to assemble a portfolio and do not demonstrate my ability to build or lead production projects. 
-   Naturally, given their recent creation, they reflect my curiosity for new technologies and available AI tools. However, all have been scrupulously reviewed, carefully 
-   revised, and supervised. Without going into the details of each project and repository, each reflects my curiosity for a specific technological field or 
-   the possibility of interconnecting complex systems. It should be noted that some, if not many, assisted coding tools available today are also provided by companies in 
-   enterprise license form (e.g, Copilot for Enterprise) 
- 
 <!--
 **ncandio/ncandio** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
