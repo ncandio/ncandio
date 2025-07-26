@@ -66,11 +66,7 @@ Explore my repositories below to view these projects and other experiments in cl
 💡 **Open to collaboration on automotive, telco, security, cloud infrastructure,  and software engineering projects.**
 
 ## 📫 Disclaimer
-   
-   With over 15 years of research in technology and corporate environments, my opinions on AI-driven and AI-assisted software are multifaceted. 
-   I find the potential to refactor projects and ideas rapidly and quickly create exciting prototypes: this is the case with the PostgreSQL repository, implementing three 
-   different branches. With a traditional version, using Dask and libuv for Python libraries, I have personally used it in enterprise projects.
-   
+
    These GitHub repositories have been created as an attempt to assemble a portfolio and do not demonstrate my ability to build or lead production projects. 
 <!--
 **ncandio/ncandio** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
